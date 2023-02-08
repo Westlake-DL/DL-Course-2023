@@ -7,8 +7,8 @@ This course introduces methods on neural networks and deep learning, covering ba
 ##  Course Schedule
 
 - **Instructor:** [Stan Z. Li](mailto:stan.zq.li@westlake.edu.cn) and [Tao Lin](mailto:lintao@westlake.edu.cn)
-- **Time:** Thursday 12:30pm - 1:50pm
-- **Location:** YunGu E-216 (in person)
+- **Time:** Thursday 8:50am - 10:35am
+- **Location:** YunGu E10-306 (in person)
 - **Teaching Assistants:** [Zicheng Liu](mailto:liuzicheng@westlake.edu.cn), [Jun Xia](mailto:xiajun@westlake.edu.cn), [Haitao Lin](mailto:linhaitao@westlake.edu.cn), [Lirong Wu](mailto:wulirong@westlake.edu.cn)
 
 
