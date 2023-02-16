@@ -10,8 +10,7 @@ This course introduces methods on neural networks and deep learning, covering ba
 - **Time:** Thursday 8:50am - 10:35am
 - **Location:** YunGu E10-306 (in person)
 - **Teaching Assistants:** [Zicheng Liu](mailto:liuzicheng@westlake.edu.cn), [Jun Xia](mailto:xiajun@westlake.edu.cn), [Haitao Lin](mailto:linhaitao@westlake.edu.cn), [Lirong Wu](mailto:wulirong@westlake.edu.cn)
-
-
+- **Details:** [Course Schedule for Course Schedule](https://www.notion.so/Deep-Learning-6a2c5a42eef849239582b5b512cd0b25)
 
 ## Prerequisites
 
@@ -35,7 +34,7 @@ This course introduces methods on neural networks and deep learning, covering ba
 
 
 
-## Documentation and Tools
+## Documentation
 
 [1] [Pattern Recognition and Machine Learning](https://www.microsoft.com/en-us/research/people/cmbishop/prml-book/), by Christopher Bishop.
 
