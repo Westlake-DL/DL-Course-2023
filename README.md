@@ -10,7 +10,7 @@ This course introduces methods on neural networks and deep learning, covering ba
 - **Time:** Thursday 8:50am - 10:35am
 - **Location:** YunGu E10-306 (in person)
 - **Teaching Assistants:** [Zicheng Liu](mailto:liuzicheng@westlake.edu.cn), [Jun Xia](mailto:xiajun@westlake.edu.cn), [Haitao Lin](mailto:linhaitao@westlake.edu.cn), [Lirong Wu](mailto:wulirong@westlake.edu.cn)
-- **Details:** [Course Schedule for Course Schedule](https://www.notion.so/Deep-Learning-6a2c5a42eef849239582b5b512cd0b25)
+- **Details:** [Course Schedule for Course Schedule](https://deadpan-deal-88a.notion.site/Deep-Learning-6a2c5a42eef849239582b5b512cd0b25)
 
 ## Prerequisites
 
